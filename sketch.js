@@ -52,7 +52,7 @@ function setup() {
 function draw() {
   
   
-  background(225)
+  background("grey")
  
   textSize(20);
   fill("black") 
