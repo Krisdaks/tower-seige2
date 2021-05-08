@@ -51,12 +51,8 @@ function setup() {
 }
 function draw() {
   
-  if (backgroundImg) {
-   background(backgroundImg); 
-  }
-  else{
-    background(225)
-  }
+  
+  background(225)
  
   textSize(20);
   fill("black") 
