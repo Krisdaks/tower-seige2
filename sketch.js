@@ -54,7 +54,9 @@ function draw() {
   if (backgroundImg) {
    background(backgroundImg); 
   }
-  
+  else{
+    background(225)
+  }
  
   textSize(20);
   fill("black") 
